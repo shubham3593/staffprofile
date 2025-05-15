@@ -1,0 +1,95 @@
+[{
+  "_id": {
+    "$oid": "6824d9546320fca73674e575"
+  },
+  "domicile": "ds",
+  "maritalStatus": "married",
+  "currentAddress": "ssss",
+  "nation": "ss",
+  "placeOfBirth": "s",
+  "religion": "s",
+  "citizenId": "s",
+  "dateOfIssue": {
+    "$date": "2025-05-29T00:00:00.000Z"
+  },
+  "placeOfIssue": "s",
+  "resident": "s",
+  "bankAccountNumber": "ss",
+  "bankAccountName": "s",
+  "bankName": "s",
+  "taxCode": "ss",
+  "epfNo": "s",
+  "socialSecurityNo": "s",
+  "facebook": "s",
+  "linkedin": "s",
+  "skype": "s",
+  "createdAt": {
+    "$date": "2025-05-14T17:56:36.174Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T17:56:36.174Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6825033cc0c15ea1f0ce1c06"
+  },
+  "domicile": "",
+  "maritalStatus": "",
+  "currentAddress": "",
+  "nation": "",
+  "placeOfBirth": "",
+  "religion": "",
+  "citizenId": "",
+  "dateOfIssue": null,
+  "placeOfIssue": "",
+  "resident": "",
+  "bankAccountNumber": "",
+  "bankAccountName": "",
+  "bankName": "",
+  "taxCode": "",
+  "epfNo": "",
+  "socialSecurityNo": "",
+  "facebook": "",
+  "linkedin": "",
+  "skype": "",
+  "createdAt": {
+    "$date": "2025-05-14T20:55:24.349Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T20:55:24.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682505a2c0c15ea1f0ce1c0f"
+  },
+  "domicile": "",
+  "maritalStatus": "",
+  "currentAddress": "",
+  "nation": "",
+  "placeOfBirth": "",
+  "religion": "",
+  "citizenId": "",
+  "dateOfIssue": null,
+  "placeOfIssue": "",
+  "resident": "",
+  "bankAccountNumber": "",
+  "bankAccountName": "",
+  "bankName": "",
+  "taxCode": "",
+  "epfNo": "",
+  "socialSecurityNo": "",
+  "facebook": "",
+  "linkedin": "",
+  "skype": "",
+  "createdAt": {
+    "$date": "2025-05-14T21:05:38.106Z"
+  },
+  "updatedAt": {
+    "$date": "2025-05-14T21:05:38.106Z"
+  },
+  "__v": 0
+}]
